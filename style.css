@@ -1,0 +1,24 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    padding-top:50px; 
+    background-color: greenyellow;
+}
+p{
+    font-size: 40px;
+    color:darkred;
+}
+img{
+    border-radius: 25px;
+    border-style: groove;
+    border-color: blueviolet;
+    border-width: 20px;
+}
